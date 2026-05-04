@@ -1,0 +1,3 @@
+[submodule "SinSR"]
+	path = SinSR
+	url = git@github.com:wyf0912/SinSR.git
